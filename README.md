@@ -26,9 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="70" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" height="70" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" height="70" style="vertical-align:top; margin:4px"> 
-<!-- <img src="mongo.png" alt="Mongodb" height="70" style="vertical-align:top; margin:4px"> -->
-<!-- <img src="npm.png" alt="NPM" height="70" style="vertical-align:top; margin:4px"> -->
-<!-- <img src="php.png" alt="PHP" height="70" style="vertical-align:top; margin:4px"> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="PYTHON" height="70" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="70" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" height="70" style="vertical-align:top; margin:4px">
