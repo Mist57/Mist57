@@ -15,8 +15,10 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Dev, Android & I enjoy learning new things. </br>
+
+👨‍💻 I’m a **Software Development Engineer II at [Celigo](https://www.celigo.com/)**.
+💡 Passionate about exploring emerging technologies.  
+🌱 Always learning, growing, and contributing to impactful engineering projects.
 
 
 <br />
